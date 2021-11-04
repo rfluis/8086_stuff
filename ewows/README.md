@@ -5,4 +5,6 @@ Just place the E-W-O-W-S clicking with your mouse and select colour.
 
 All in 5389 Bytes.
 
-Original written in BASM (Kevin Diggins) & Assembler. Currently porting to Borland Turbo C.
+Original written in BASM (Kevin Diggins) & Assembler , then packed using LZ-EXE (https://bellard.org/lzexe.html). 
+
+Currently porting to Borland Turbo C.
