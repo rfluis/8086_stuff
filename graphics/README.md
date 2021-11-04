@@ -2,6 +2,7 @@
 These two small demos show how to make graphics in C for 8086
 * gdemo.c does calling int 0x10 for VGA/EGA
 * hgdemo.c has a small routine to Setup Graphics mode in Hercules card
+
 Both files implement Bresenham algorithm to draw lines
 
 I left some mouse routines (calls to int 0x33), 
