@@ -11,6 +11,6 @@ just to check if current loaded mouse driver supports Hercules
 To compile these two files Borland Turbo C Compiler (TCC.EXE) and Borland Turbo Assembler (TASM.EXE) are needed.
 I didn't try with other compilers.
 
-* I got Hercules Driver from an internet FTP I don't remember
+* I got Hercules Driver from an internet FTP I don't remember (hgraphic.zip)
 * Mouse Routines and Int 0x10 codes from BASM (Basic to Assembler translator by Kevin Diggins)
 * Bresenham algorithm from Wikipedia (https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
