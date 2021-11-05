@@ -2,7 +2,7 @@
 Code created for 8086/8088 + 8087
 
 C for 8086 has some quirks:
-* int defaults to short int (16 bytes)
+* int defaults to short int (16 bits)
 * 32-bit integers are declared with long int
 * 64-bit integers with long long int
 * CPU has native support for 16-bit arithmetics, but 32-bit (and wider) is done by software or by an specific hardware (8087)
